@@ -111,5 +111,9 @@ package-lock.json
 .vscode
 .vs
 
+#expo
+.expo
+.expo-shared
+
 # Android memory profiler files
 *.hprof
