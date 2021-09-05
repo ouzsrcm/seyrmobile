@@ -1,0 +1,8 @@
+*tv
+https://canliyayin.net.tr/istatistik/seyrtv/
+
+
+*radyo
+<audio controls>
+  <source src="https://sslyayin.netyayin.net/8024/stream"  type="audio/mpeg">
+</audio>
