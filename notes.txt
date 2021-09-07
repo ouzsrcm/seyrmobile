@@ -6,3 +6,8 @@ https://canliyayin.net.tr/istatistik/seyrtv/
 <audio controls>
   <source src="https://sslyayin.netyayin.net/8024/stream"  type="audio/mpeg">
 </audio>
+
+<iframe width="1842" height="808" src="https://www.youtube.com/embed/s1jZtcStl5g" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
