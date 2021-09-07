@@ -30,6 +30,7 @@ export default function TabOneScreen({ navigation }: RootTabScreenProps<'TabOne'
         useNativeControls
         style={styles.video}
       />
+      <Text></Text>
     </View>
   );
 }
@@ -38,7 +39,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     alignItems: 'center',
-    justifyContent: 'center',
+    justifyContent: 'top',
   },
   title: {
     fontSize: 20,
